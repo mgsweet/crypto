@@ -26,8 +26,8 @@ import (
 	"sync"
 
 	"crypto"
-	"golang.org/x/crypto/ed25519"
-	"golang.org/x/crypto/ssh"
+	"github.com/mgsweet/crypto/ed25519"
+	"github.com/mgsweet/crypto/ssh"
 )
 
 // SignatureFlags represent additional flags that can be passed to the signature

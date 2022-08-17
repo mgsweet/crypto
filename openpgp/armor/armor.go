@@ -16,7 +16,7 @@ import (
 	"bufio"
 	"bytes"
 	"encoding/base64"
-	"golang.org/x/crypto/openpgp/errors"
+	"github.com/mgsweet/crypto/openpgp/errors"
 	"io"
 )
 
